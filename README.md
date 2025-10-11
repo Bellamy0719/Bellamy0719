@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hongming(Bellamy)
+#  Hi, I'm Hongming(Bellamy)
 
 **Data Engineer | Data Analyst | Data Scientist in Progress | Cloud & AI Enthusiast**
 
@@ -6,7 +6,7 @@ With 3 years of hands-on experience in data engineering and analytics, I build s
 
 ---
 
-## 🧩 Technical Focus
+## Technical Focus
 
 **Core Expertise**  
 ETL Automation · PySpark · Airflow · Docker · SQL · Data Modeling · AWS · Databricks · Streaming (Kinesis)  
@@ -20,7 +20,7 @@ Currently exploring Machine Learning and AI applications — including model dep
 
 ---
 
-## 🚀 Project Highlights
+##  Project Highlights
 
 ### Airflow + Docker + PostgreSQL + Tableau
 Automated batch ETL pipeline for stock data — covering ingestion, feature engineering, and dashboard visualization.  
