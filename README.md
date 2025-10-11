@@ -2,7 +2,7 @@
 
 **Data Engineer | Data Analyst | Data Scientist in Progress | Cloud & AI Enthusiast**
 
-With 3 years of hands-on experience in data engineering and analytics, I build scalable cloud data pipelines and intelligent analytics systems that connect engineering precision with data insight.
+With 3 years of hands-on experience in data engineering and analytics, and an academic background in Informatics (Data Science) from New York University, I build scalable cloud data pipelines and intelligent analytics systems that connect engineering precision with data insight.
 
 ---
 
