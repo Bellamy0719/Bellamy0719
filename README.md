@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hongming Liu
+# 👋 Hi, I'm Hongming(Bellamy)
 
 **Data Engineer | Data Analyst | Data Scientist in Progress | Cloud & AI Enthusiast**
 
