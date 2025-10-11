@@ -22,7 +22,7 @@ Currently exploring Machine Learning and AI applications — including model dep
 
 ##  Project Highlights
 
-### Airflow + Docker + PostgreSQL + Tableau
+### 1. Airflow + Docker + PostgreSQL + Tableau
 Automated batch ETL pipeline for stock data — covering ingestion, feature engineering, and dashboard visualization.  
 **Focus:** Workflow orchestration, data validation, automation.
 
@@ -30,7 +30,7 @@ Automated batch ETL pipeline for stock data — covering ingestion, feature engi
 
 ---
 
-### AWS + Databricks + PySpark Lakehouse
+### 2. AWS + Databricks + PySpark Lakehouse
 Designed a 3-tier S3 data lake (raw, processed, curated) using PySpark, Glue, Athena, and QuickSight.  
 **Focus:** Scalable analytics, data lakehouse architecture, schema management.
 
@@ -38,7 +38,7 @@ Designed a 3-tier S3 data lake (raw, processed, curated) using PySpark, Glue, At
 
 ---
 
-### Kinesis + Databricks Streaming + S3
+### 3. Kinesis + Databricks Streaming + S3
 Real-time streaming pipeline with PySpark Structured Streaming.  
 **Focus:** Windowing, watermarking, incremental writes, and near real-time aggregation.
 
