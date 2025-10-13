@@ -42,7 +42,7 @@ Designed a 3-tier S3 data lake (raw, processed, curated) using PySpark, Glue, At
 Real-time streaming pipeline with PySpark Structured Streaming.  
 **Focus:** Windowing, watermarking, incremental writes, and near real-time aggregation.
 
-➡️ [View Project](https://github.com/Bellamy0719/aws-kinesis-streaming-pipeline)
+➡️ [View Project](https://github.com/Bellamy0719/aws-kinesis-pyspark-streaming-pipeline)
 
 ---
 
