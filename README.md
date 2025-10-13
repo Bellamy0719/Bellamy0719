@@ -9,10 +9,10 @@ With 3 years of hands-on experience in data engineering and analytics, and an ac
 ## Technical Focus
 
 **Core Expertise**  
-ETL Automation · PySpark · Airflow · Docker · SQL · Data Modeling · AWS · Databricks · Streaming (Kinesis)  
+ETL Automation · PySpark · Airflow · Docker · SQL · Data Modeling · AWS · Databricks · Streaming (Kinesis) · dbt 
 
 **Expanding Skills**  
-dbt · MLflow · SageMaker · Feature Store · Data Governance (Delta Lake / Iceberg)  
+MLflow · SageMaker · Feature Store · Data Governance (Delta Lake / Iceberg) · Transformer · Hugging Face
 
 **Analytical & Data Science Background**  
 Experienced in classical modeling: Linear Regression, Logistic Regression, Decision Trees, and Time Series Analysis.  
