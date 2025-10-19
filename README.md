@@ -16,7 +16,7 @@ MLflow · SageMaker · Feature Store · Data Governance (Delta Lake / Iceberg) �
 
 **Analytical & Data Science Background**  
 Experienced in classical modeling: Linear Regression, Logistic Regression, Decision Trees, and Time Series Analysis.  
-Currently exploring Machine Learning and AI applications — including model deployment, feature pipelines, and Transformer-based architectures.
+Currently exploring Machine Learning and AI applications including model deployment, feature pipelines, and Transformer-based architectures.
 
 ---
 
