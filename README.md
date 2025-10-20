@@ -44,6 +44,8 @@ Real-time streaming pipeline with PySpark Structured Streaming.
 
 ➡️ [View Project](https://github.com/Bellamy0719/aws-kinesis-pyspark-streaming-pipeline)
 
+---
+
 ### 4. dbt + PostgreSQL
 Modern data warehouse ELT pipeline built with dbt and PostgreSQL.
 Focus: Automated transformations, data quality testing, documentation, and data lineage tracking (staging → facts → marts).
