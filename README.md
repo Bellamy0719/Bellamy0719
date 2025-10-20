@@ -23,7 +23,7 @@ Currently exploring Machine Learning and AI applications including model deploym
 ##  Project Highlights
 
 ### 1. Airflow + Docker + PostgreSQL + Tableau
-Automated batch ETL pipeline for stock data — covering ingestion, feature engineering, and dashboard visualization.  
+Automated batch ETL pipeline for stock data that covers ingestion, feature engineering, and dashboard visualization.  
 **Focus:** Workflow orchestration, data validation, automation.
 
 ➡️ [View Project](https://github.com/Bellamy0719/airflow-stock-pipeline)
