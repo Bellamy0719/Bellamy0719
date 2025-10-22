@@ -35,6 +35,7 @@ Designed a 3-tier S3 data lake (raw, processed, curated) using PySpark, Glue, At
 **Focus:** Scalable analytics, data lakehouse architecture, schema management.
 
 **AWS** ➡️ [View Project](https://github.com/Bellamy0719/aws-pyspark-data-lakehouse-pipeline)
+
 **Azure** ➡️ [View Project](https://github.com/Bellamy0719/azure_databricks_lakehouse_pipeline)
 
 ---
