@@ -34,7 +34,7 @@ Automated batch ETL pipeline for stock data that covers ingestion, feature engin
 Designed a 3-tier S3 data lake (raw, processed, curated) using PySpark, Glue, Athena, and QuickSight.  
 **Focus:** Scalable analytics, data lakehouse architecture, schema management.
 
-**Implemented in the AWS ecosystem**
+**Implemented in the AWS ecosystem(with more details)**
 **AWS** ➡️ [View Project](https://github.com/Bellamy0719/aws-pyspark-data-lakehouse-pipeline)
 
 Also Built a 3-Tier Azure Data Lakehouse with Databricks, PySpark, and ADLS Gen2  
