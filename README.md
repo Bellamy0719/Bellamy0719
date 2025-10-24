@@ -9,7 +9,7 @@ With 3 years of hands-on experience in data engineering and analytics, and an ac
 ## Technical Focus
 
 **Core Expertise**  
-ETL Automation · PySpark · Airflow · Docker · SQL · Data Modeling · AWS · Databricks · Streaming (Kinesis) · dbt 
+ETL Automation · PySpark · Airflow · Docker · SQL · Data Modeling · AWS · Azure · Databricks · Streaming (Kinesis) · dbt
 
 **Expanding Skills**  
 MLflow · SageMaker · Feature Store · Data Governance (Delta Lake / Iceberg) · Transformer · Hugging Face
