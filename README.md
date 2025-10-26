@@ -64,7 +64,7 @@ Focus: Automated transformations, data quality testing, documentation, and data 
 Beyond data pipelines, I also design and build modern web platforms integrating data-driven functionality and clean user experience.
 
 ### 1. [Leoneo Living](https://leoneoliving.com/)
-Official site for an engineering and renovation company — showcasing projects, service workflows, and client engagement design.
+Official site for an engineering and renovation company showcasing projects, service workflows, and client engagement design.
 
 ### 2. [Youweicyh](https://youweicyh.com/)
 Financial and community-focused platform integrating business collaboration and membership systems.
