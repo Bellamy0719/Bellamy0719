@@ -63,7 +63,7 @@ Focus: Automated transformations, data quality testing, documentation, and data 
 Exploratory data analysis of New York City real-estate prices using pandas and geopandas.
 Focus: Data loading, cleaning, temporal trend analysis, and spatial visualization across property types and years
 
-➡️ [View Project](https://github.com/Bellamy0719/)
+➡️ [View Project](https://github.com/Bellamy0719/spatial_temporal_nyc_real_estate_analysis_using_genpandas)
 
 ---
 
