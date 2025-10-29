@@ -59,7 +59,7 @@ Focus: Automated transformations, data quality testing, documentation, and data 
 
 ---
 
-### 5. data analysis
+### 5. Spatial-Temporal Analysis using Pandas + GeoPandas
 Exploratory data analysis of New York City real-estate prices using pandas and geopandas.
 Focus: Data loading, cleaning, temporal trend analysis, and spatial visualization across property types and years
 
