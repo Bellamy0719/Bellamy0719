@@ -59,6 +59,14 @@ Focus: Automated transformations, data quality testing, documentation, and data 
 
 ---
 
+### 5. data analysis
+Exploratory data analysis of New York City real-estate prices using pandas and geopandas.
+Focus: Data loading, cleaning, temporal trend analysis, and spatial visualization across property types and years
+
+➡️ [View Project](https://github.com/Bellamy0719/)
+
+---
+
 ## 🌐 Web Projects & Portfolio
 
 Beyond data pipelines, I also design and build modern web platforms integrating data-driven functionality and clean user experience.
