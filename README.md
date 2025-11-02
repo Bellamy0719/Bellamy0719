@@ -79,7 +79,7 @@ Financial and community-focused platform integrating business collaboration and 
 
 ---
 
-## 📈 Data Science & AI Direction
+## Data Science & AI Direction
 
 Building on my analytical foundation, I am transitioning toward **ML & AI systems engineering**:  
 - Integrating ML models into production-ready pipelines (with MLflow / SageMaker)  
@@ -88,14 +88,14 @@ Building on my analytical foundation, I am transitioning toward **ML & AI system
 
 ---
 
-## 🧠 Current Goals
+## Current Goals
 - Develop a dbt-based transformation layer with modular, testable data models  
 - Implement MLflow for tracking, deployment, and monitoring  
 - Build an AI-ready data foundation for advanced analytics and intelligent automation
 
 ---
 
-## 🧩 Tech Stack Overview
+## Tech Stack Overview
 
 **Languages:** Python, SQL  
 **Data Engineering:** PySpark, Airflow, Docker, dbt, AWS (S3, Glue, Athena, Redshift), Databricks  
